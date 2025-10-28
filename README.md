@@ -1,0 +1,1 @@
+This project is going to help me understand how html work. I will set up the basic foundations for a website using basic htlm.
